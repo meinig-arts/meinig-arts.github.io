@@ -1,0 +1,1 @@
+Hier soll eine Präsentation der Werke des Kunstmalers Walther Meinig entstehen.
