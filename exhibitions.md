@@ -1,5 +1,5 @@
 ---
-title: Ausstellungen
+title: Walther Meinig - Ausstellungen
 ---
 
 **1. Meißner Kunstausstellung**

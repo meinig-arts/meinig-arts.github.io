@@ -1,5 +1,5 @@
 ---
-title: Über den Künstler
+title: Walther Meinig - Über den Künstler
 ---
 
 Walther Meinig wurde am **27.10.1902** in Dresden geboren. 

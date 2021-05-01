@@ -1,5 +1,5 @@
 ---
-title: Kontakt & Impressum
+title: Walther Meinig - Kontakt & Impressum
 ---
 
 Rückfragen an <meinig-arts@t-online.de>.
