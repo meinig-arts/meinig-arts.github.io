@@ -2,9 +2,9 @@
 title: Walther Meinig - Ausstellungen
 ---
 
-**\1. Meißner Kunstausstellung**
+**1. Meißner Kunstausstellung**
 
-Oktober-November 1947, Stadtmuseum Meißen.
+Stadtmuseum Meißen (Oktober-November 1947)
 
 Walther Meinig war mit vier Bildern vertreten:
 * *Die Gleinser Höfe* (Öl)
@@ -13,9 +13,9 @@ Walther Meinig war mit vier Bildern vertreten:
 * *Südlicher Herbst* (Öl) mit Abbildung im Katalog.
 Die heutigen Aufbewahrungsorte dieser Werke sind unbekannt.
 
-**\2. Jahresausstellung Meißner Künstler**
+**2. Jahresausstellung Meißner Künstler**
 
-\3. Oktober bis 14. November 1948, Stadtmuseum Meißen
+Stadtmuseum Meißen (3. Oktober bis 14. November 1948)
 
 Walther Meinig war mit sieben Bildern vertreten.
 * *Selbstbildnis* (Öl)
