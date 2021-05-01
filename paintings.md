@@ -1,5 +1,6 @@
 ---
 title: Walther Meinig - Werke
+layout: paintings
 ---
 
 Walther Meinig war nicht auf eine spezifische Stilrichtung oder Gattung festgelegt. Einer seinen Hauptschwerpunkte war sicher die Landschaftsmalerei, wobei hier wiederum Berglandschaften, insbesondere in Südtirol und im Schwarzwald, im Vordergrund standen.
