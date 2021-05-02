@@ -16,11 +16,11 @@
         </div>
         <div id="main">
             <div align="center"><h3><i>{{ page.image_title}}</i></h3></div>
-            <a href="{{ page.image_url}}"><img src="{{ page.image_thumbnail_url}}" /></a>
+            <div align="center"><a href="{{ page.image_url}}"><img src="{{ page.image_thumbnail_url}}" /></a></div>
         </div>
-        <div id="back_and_next">
-            <p float="left"><a href="{{ page.back_url }}">&lt; Zurück</a></p>
-            <p float="right"><a href="{{ page.next_url }}">Weiter &gt;</a></p>
-        </div>
+        <table style="width: 100%;">
+            <tr><td><a href="{{ page.back_url }}">&lt; Zurück</a></td>
+            <td class="alignRight"><a href="{{ page.next_url }}">Weiter &gt;</a></td></tr>
+        </table>
     </div>
 </body>
