@@ -15,10 +15,12 @@
             {% include _paintings_nav.html %}
         </div>
         <div id="main">
-            <div align="center"><i>{{ page.image_title}}</i></div>
+            <div align="center"><h3><i>{{ page.image_title}}</i></h3></div>
             <a href="{{ page.image_url}}"><img src="{{ page.image_thumbnail_url}}" /></a>
         </div>
-        <div id=bottom-left"><a href="{{ page.back_url }}">Zurück</a></div>
-        <div id="bottom-right"><a href="{{ page.next_url }}">Weiter</a></div>
+        <div id="back_and_next">
+            <p float="left"><a href="{{ page.back_url }}">&lt; Zurück</a></p>
+            <p float="right"><a href="{{ page.next_url }}">Weiter &gt;</a></p>
+        </div>
     </div>
 </body>
