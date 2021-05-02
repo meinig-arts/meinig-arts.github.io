@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>{{ page.title | default: site.title }}</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+
+<body>
+    <div id="frame">
+        <div id="header">
+            {% include _nav.html %}<br>
+            {% include _paintings_nav.html %}
+        </div>
+        <div id="main">
+            <div align="center"><i>{{ page.image_title}}</i></div>
+            <a href="{{ page.image_url}}"><img src="{{ page.image_thumbnail_url}}" /></a>
+        </div>
+        <div id=bottom-left"><a href="{{ page.back_url }}">Zurück</a></div>
+        <div id="bottom-right"><a href="{{ page.next_url }}">Weiter</a></div>
+    </div>
+</body>
