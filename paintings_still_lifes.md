@@ -1,6 +1,6 @@
 ---
 title: Walther Meinig - Werke - Stillleben
-layout: painting:category
+layout: painting_category
 start_painting: paintings_still_lifes_01.html
 ---
 
