@@ -26,7 +26,17 @@ body {
         "main"
 }
 
+#bottom-left {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
 
+#bottom-right {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
 
 @media only screen and (min-width: 800px) {
     #frame {
