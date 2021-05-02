@@ -1,6 +1,7 @@
 ---
 title: Walther Meinig - Werke - Personen & Tiere
-layout: paintings
+layout: painting_category
+start_painting: paintings_persons_animals_01.html
 ---
 
 Diese Seite befindet sich im Aufbau.
