@@ -10,10 +10,6 @@
 </head>
 
 <body>
-    <!-- [LIGHTBOX CONTAINER] -->
-    <div id="lb-back">
-      <div id="lb-img"></div>
-    </div>
     <div id="frame">
         <div id="header">
             {% include _nav.html %}<br>
@@ -21,7 +17,13 @@
         </div>
         <div id="main">
             <div align="center"><h3><i>{{ page.image_title}}</i></h3></div>
-            <div align="center"><a href="{{ page.image_url}}"><img src="{{ page.image_url}}" class="zoomD" /></a></div>
+            <!-- Image Zoom HTML -->   
+            <div align="center"><img id="myImg" src="{{ page.image_url}}" alt="Bild von Walther Meinig" width="500" height="auto"></div>
+             <!-- The Modal -->
+             <div id="myModal" class="modal">
+             <img class="modal-content" id="img01">
+             <div id="caption"></div>
+             </div>
         </div>
         <table style="width: 100%;">
             <tr>
