@@ -29,7 +29,7 @@ body {
 
 @media only screen and (min-width: 800px) {
     #frame {
-        width: 90%;
+    //    width: 90%;
         grid-template-areas:
             "nav"
             "main";
@@ -38,7 +38,7 @@ body {
 
 @media only screen and (min-width: 1200px) {
     #frame {
-        width: 75%;
+  //      width: 75%;
     }
 }
 
