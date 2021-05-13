@@ -15,8 +15,9 @@
             {% include _paintings_nav.html %}
         </div>
         <div id="main">
-            <div align="center"><h3><i>{{ page.image_title}}</i></h3><br>
-            <p align="center" style="font-size:14px">{{ page.image_info1}}<br>{{ page.image_info2}}</p>
+            <div align="center">
+                <p align="center" style="font-size:22px"><i>{{ page.image_title}}</i><p>
+                <p align="center" style="font-size:14px">{{ page.image_info1}}<br>{{ page.image_info2}}</p>
             </div>
             <!-- Image Zoom HTML -->   
             <img align="center" id="myImg" src="{{ page.image_thumbnail_url}}" alt="{{ page.image_title}}" width="{{ page.image_thumbnail_pixel_width}}" height="{{ page.image_thumbnail_pixel_height}}">
