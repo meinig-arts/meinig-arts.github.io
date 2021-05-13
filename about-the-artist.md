@@ -12,3 +12,7 @@ Von **1939 – 1947** war dann eine künstlerische Zwangspause durch Kriegsdiens
 **1949** und **1952** erhielt er den Kunstpreis der Stadt Meißen.
 
 Der repressiven dogmatischen Kulturpolitik des SED-Regimes entzog er sich **1952** durch Republikflucht und arbeitete bis zu seinem Tod am **29.12.1987** als freischaffender Maler in Freiburg. Bis 1972 beteiligte er sich regelmäßig an Ausstellungen des VBKW (Verband Bildender Künstler und Künstlerinnen Baden-Württemberg), unter anderem in Baden-Baden. 
+
+Die Badische Zeitung kommt in einem Artikel über ihn und seine ebenfalls künstlerisch tätige Gattin zu folgender Einschätzung:
+
+![Artikel aus der Badischen Zeitung](assets/images/badische-zeitung-klein.png)

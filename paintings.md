@@ -8,6 +8,4 @@ Walther Meinig war nicht auf eine spezifische Stilrichtung oder Gattung festgele
 Darüber hinaus porträtierte er auch Personen und Tiere. Schließlich finden sich zahlreiche Stillleben und auch abstrakte Gemälde unter seinen Werken.
 Bei den Maltechniken verwendet er im Wesentlichen Öl, Tempera und Aquarellmalerei.
 
-Die Badische Zeitung kommt in einem Artikel über ihn zu folgender Einschätzung:
-
-![Artikel aus der Badischen Zeitung](assets/images/badische-zeitung-klein.png)
+Seine Bilder befinden sich heutzutage im Familienbesitz, in verschiedenen Kunstsammlungen und in Privatbesitz. Bei Interesse am Erwerb eines Bildes nehmen Sie bitte [Kontakt](contact.html) mit uns auf.
