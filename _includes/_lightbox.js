@@ -10,8 +10,6 @@ var captionText = document.getElementById("caption");
 img.onclick = function(){
     modal.style.display = "block";
     modalImg.src = "{{ page.image_url}}";
-    modelImg.width = {{ page.image_pixel_width}};
-    modelImg.height = {{ page.image_pixel_height}};
     modalImg.alt = this.alt;
     captionText.innerHTML = this.alt;
 }
