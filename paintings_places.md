@@ -4,4 +4,4 @@ layout: painting_category
 start_painting_url: paintings_places_01.html
 ---
 
-Diese Seite befindet sich im Aufbau.
+Zu den von Walther Meinig inszenierten Landschaften gehören die Dolomiten, der Schwarzwald, das ländliche Spanien / Mallorca sowie verschiedene weitere Orte, etwa die berühmte Brücke von Avignon.
