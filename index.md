@@ -2,6 +2,6 @@
 title: Walther Meinig
 ---
 
-![Dies ist ein Beispielbild von Walther Meinig.](assets/images/Am Meer-klein.png)
+![Pala](assets/images/places/Pala-klein.png)
 
-Hier entsteht eine Präsentation der Werke und des künstlerischen Lebenslaufs von Walther Meinig.
+Hier entsteht eine Präsentation der [Werke](paintings.html) und des [künstlerischen Lebenslaufs](about-the-artist.html) von Walther Meinig.
