@@ -2,7 +2,7 @@
 title: Walther Meinig - Werke - Orte & Landschaften
 layout: painting
 image_title: Mallorquinische Landschaft
-image_info1: Aquaell, Datum unbekannt
+image_info1: Aquarell, Datum unbekannt
 image_info2: ca. 50 x 70 cm (Höhe x Breite)
 image_url: assets/images/places/Mallorquinische Landschaft.png
 image_thumbnail_url: assets/images/places/Mallorquinische Landschaft-klein.png
