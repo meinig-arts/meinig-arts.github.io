@@ -1,9 +1,9 @@
 ---
-title: Walther Meinig - Werke - Personen & Tiere
+title: Walther Meinig - Personen & Tiere
 layout: painting
 image_title: Eichhörnchen
 image_info1: Aquarell, 1973
-image_info2: ca. 35 x 45 cm (Höhe x Breite)
+image_info2: ca. 35 x 45 cm
 image_url: assets/images/persons-animals/Eichhoernchen.png
 image_thumbnail_url: assets/images/persons-animals/Eichhoernchen-klein.png
 image_thumbnail_pixel_width: 512

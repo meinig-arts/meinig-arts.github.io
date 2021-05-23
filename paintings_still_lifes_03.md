@@ -1,9 +1,9 @@
 ---
-title: Walther Meinig - Werke - Stillleben
+title: Walther Meinig - Stillleben
 layout: painting
 image_title: Stillleben mit Fisch und Teekanne
 image_info1: Öl, 1970
-image_info2: ca. 45 x 65 cm (Höhe x Breite)
+image_info2: ca. 45 x 65 cm
 image_url: assets/images/still-lifes/Stillleben mit Fisch und Teekanne.png
 image_thumbnail_url: assets/images/still-lifes/Stillleben mit Fisch und Teekanne-klein.png
 image_thumbnail_pixel_width: 736

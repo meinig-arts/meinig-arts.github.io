@@ -1,9 +1,9 @@
 ---
-title: Walther Meinig - Werke - Orte & Landschaften
+title: Walther Meinig - Orte & Landschaften
 layout: painting
 image_title: Schlern II
 image_info1: Aquarell, Datum unbekannt
-image_info2: ca. 40 x 65 cm (Höhe x Breite)
+image_info2: ca. 40 x 65 cm
 image_url: assets/images/places/Schlern II.png
 image_thumbnail_url: assets/images/places/Schlern II-klein.png
 image_thumbnail_pixel_width: 820

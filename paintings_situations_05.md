@@ -1,9 +1,9 @@
 ---
-title: Walther Meinig - Werke - Situationen
+title: Walther Meinig - Situationen
 layout: painting
 image_title: Der Aquarianer (Grenzen)
 image_info1: Öl, 1971
-image_info2: 50 x 70 cm cm (Höhe x Breite)
+image_info2: 50 x 70 cm
 image_url: assets/images/situations/Der Aquarianer (Grenzen).png
 image_thumbnail_url: assets/images/situations/Der Aquarianer (Grenzen)-klein.png
 image_thumbnail_pixel_width: 805

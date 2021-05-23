@@ -1,9 +1,9 @@
 ---
-title: Walther Meinig - Werke - Situationen
+title: Walther Meinig - Situationen
 layout: painting
 image_title: Elbfähre bei Uebigau (Doppelbild II)
 image_info1: Öl, 1947
-image_info2:  51 x 67 cm (Höhe x Breite)
+image_info2:  51 x 67 cm
 image_url: assets/images/situations/Elbfaehre bei Uebigau.png
 image_thumbnail_url: assets/images/situations/Elbfaehre bei Uebigau-klein.png
 image_thumbnail_pixel_width: 635

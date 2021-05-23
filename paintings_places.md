@@ -1,5 +1,5 @@
 ---
-title: Walther Meinig - Werke - Orte & Landschaften
+title: Walther Meinig - Orte & Landschaften
 layout: painting_category
 ---
 

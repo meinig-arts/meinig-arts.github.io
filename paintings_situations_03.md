@@ -1,9 +1,9 @@
 ---
-title: Walther Meinig - Werke - Situationen
+title: Walther Meinig - Situationen
 layout: painting
 image_title: Warten auf Grün
 image_info1: Öl, 1968
-image_info2: 93 x 133 cm (Höhe x Breite)
+image_info2: 93 x 133 cm
 image_url: assets/images/situations/Warten auf Gruen.png
 image_thumbnail_url: assets/images/situations/Warten auf Gruen-klein.png
 image_thumbnail_pixel_width: 693

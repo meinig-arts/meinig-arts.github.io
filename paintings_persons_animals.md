@@ -1,5 +1,5 @@
 ---
-title: Walther Meinig - Werke - Personen & Tiere
+title: Walther Meinig - Personen & Tiere
 layout: painting_category
 ---
 

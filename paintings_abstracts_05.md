@@ -1,9 +1,9 @@
 ---
-title: Walther Meinig - Werke - Abstraktes
+title: Walther Meinig - Abstraktes
 layout: painting
 image_title: Getrennte Körper
 image_info1: Öl, 1964
-image_info2: ca. 70 x 65 cm (Höhe x Breite)
+image_info2: ca. 70 x 65 cm
 image_url: assets/images/abstracts/Getrennte Koerper.png
 image_thumbnail_url: assets/images/abstracts/Getrennte Koerper-klein.png
 image_thumbnail_pixel_width: 451

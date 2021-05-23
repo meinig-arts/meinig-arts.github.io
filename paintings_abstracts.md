@@ -1,5 +1,5 @@
 ---
-title: Walther Meinig - Werke - Abstraktes
+title: Walther Meinig - Abstraktes
 layout: painting_category
 ---
 

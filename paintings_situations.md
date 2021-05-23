@@ -1,5 +1,5 @@
 ---
-title: Walther Meinig - Werke - Situationen
+title: Walther Meinig - Situationen
 layout: painting_category
 ---
 

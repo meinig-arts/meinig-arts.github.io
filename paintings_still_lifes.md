@@ -1,5 +1,5 @@
 ---
-title: Walther Meinig - Werke - Stillleben
+title: Walther Meinig - Stillleben
 layout: painting_category
 ---
 
