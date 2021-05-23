@@ -8,7 +8,7 @@ image_url: assets/images/places/Springbrunnen im Stadtgarten Freiburg.png
 image_thumbnail_url: assets/images/places/Springbrunnen im Stadtgarten Freiburg-klein.png
 image_thumbnail_pixel_width: 560
 image_thumbnail_pixel_height: 397
-back_url: paintings_places_02.html
+back_url: paintings_places_02a.html
 next_url: paintings_places_04.html
 ---
 
