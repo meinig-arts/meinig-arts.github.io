@@ -10,4 +10,5 @@ image_thumbnail_pixel_width: 626
 image_thumbnail_pixel_height: 429
 back_url: paintings_abstracts_02.html
 next_url: paintings_abstracts_04.html
+up_url: paintings_abstracts.html
 ---

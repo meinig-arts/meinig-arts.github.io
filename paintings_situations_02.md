@@ -10,5 +10,6 @@ image_thumbnail_pixel_width: 633
 image_thumbnail_pixel_height: 487
 back_url: paintings_situations_01.html
 next_url: paintings_situations_02a.html
+up_url: paintings_situations.html
 ---
 

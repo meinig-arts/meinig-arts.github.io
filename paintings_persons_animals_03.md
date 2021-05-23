@@ -10,4 +10,5 @@ image_thumbnail_pixel_width: 512
 image_thumbnail_pixel_height: 376
 back_url: paintings_persons_animals_02.html
 next_url: paintings_persons_animals_04.html
+up_url: paintings_persons_animals.html
 ---

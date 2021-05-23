@@ -10,4 +10,5 @@ image_thumbnail_pixel_width: 213
 image_thumbnail_pixel_height: 328
 back_url: paintings_still_lifes_03.html
 next_url: paintings_still_lifes.html
+up_url: paintings_still_lifes.html
 ---

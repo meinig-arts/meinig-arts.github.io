@@ -10,5 +10,6 @@ image_thumbnail_pixel_width: 820
 image_thumbnail_pixel_height: 532
 back_url: paintings_places_07.html
 next_url: paintings_places.html
+up_url: paintings_places.html
 ---
 
