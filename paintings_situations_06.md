@@ -8,7 +8,7 @@ image_url: assets/images/situations/Lampion-Umzug.png
 image_thumbnail_url: assets/images/situations/Lampion-Umzug-klein.png
 image_thumbnail_pixel_width: 653
 image_thumbnail_pixel_height: 409
-back_url: paintings_situations_04.html
+back_url: paintings_situations_05.html
 next_url: paintings_situations.html
 ---
 
