@@ -8,7 +8,7 @@ image_url: assets/images/persons-animals/Tukan.png
 image_thumbnail_url: assets/images/persons-animals/Tukan-klein.png
 image_thumbnail_pixel_width: 755
 image_thumbnail_pixel_height: 551
-back_url: paintings_persons_animals_03e.html
+back_url: paintings_persons_animals_03f.html
 next_url: paintings_persons_animals_05.html
 up_url: paintings_persons_animals.html
 ---

@@ -8,7 +8,7 @@ image_url: assets/images/persons-animals/Eichhoernchen.png
 image_thumbnail_url: assets/images/persons-animals/Eichhoernchen-klein.png
 image_thumbnail_pixel_width: 512
 image_thumbnail_pixel_height: 376
-back_url: paintings_persons_animals_02.html
-next_url: paintings_persons_animals_03a.html
+back_url: paintings_persons_animals_03e.html
+next_url: paintings_persons_animals_04.html
 up_url: paintings_persons_animals.html
 ---

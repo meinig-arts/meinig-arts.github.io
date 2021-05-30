@@ -8,7 +8,7 @@ image_url: assets/images/persons-animals/Heimer, Scholl.png
 image_thumbnail_url: assets/images/persons-animals/Heimer, Scholl-klein.png
 image_thumbnail_pixel_width: 730
 image_thumbnail_pixel_height: 934
-back_url: paintings_persons_animals_03.html
+back_url: paintings_persons_animals_02.html
 next_url: paintings_persons_animals_03c.html
 up_url: paintings_persons_animals.html
 ---
