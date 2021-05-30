@@ -8,8 +8,8 @@ image_url: assets/images/places/Leuchtturm.png
 image_thumbnail_url: assets/images/places/Leuchtturm-klein.png
 image_thumbnail_pixel_width: 603
 image_thumbnail_pixel_height: 395
-back_url: paintings_places_01.html
-next_url: paintings_places_02a.html
+back_url: paintings_places_more_02.html
+next_url: paintings_places_more_04.html
 up_url: paintings_places.html
 ---
 

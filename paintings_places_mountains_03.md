@@ -8,7 +8,7 @@ image_url: assets/images/places/Schlern II.png
 image_thumbnail_url: assets/images/places/Schlern II-klein.png
 image_thumbnail_pixel_width: 820
 image_thumbnail_pixel_height: 532
-back_url: paintings_places_07.html
+back_url: paintings_places_mountains_02.html
 next_url: paintings_places.html
 up_url: paintings_places.html
 ---
