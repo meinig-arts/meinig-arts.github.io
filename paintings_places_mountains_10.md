@@ -8,7 +8,7 @@ image_url: assets/images/places/Dolomiten-Landschaft.png
 image_thumbnail_url: assets/images/places/Dolomiten Landschaft-klein.png
 image_thumbnail_pixel_width: 673
 image_thumbnail_pixel_height: 520
-back_url: paintings_places.html
+back_url: paintings_places_09.html
 next_url: paintings_places_mountains_11.html
 up_url: paintings_places.html
 ---
