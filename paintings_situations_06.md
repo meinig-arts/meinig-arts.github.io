@@ -1,15 +1,15 @@
 ---
 title: Walther Meinig - Situationen
 layout: painting
-image_title: Lampion-Umzug
-image_info1: Öl, 1980
-image_info2: 70 x 110 cm
-image_url: assets/images/situations/Lampion-Umzug.png
-image_thumbnail_url: assets/images/situations/Lampion-Umzug-klein.png
-image_thumbnail_pixel_width: 653
-image_thumbnail_pixel_height: 409
+image_title: Der Aquarianer (Grenzen)
+image_info1: Öl, 1971
+image_info2: 50 x 70 cm
+image_url: assets/images/situations/Der Aquarianer (Grenzen).png
+image_thumbnail_url: assets/images/situations/Der Aquarianer (Grenzen)-klein.png
+image_thumbnail_pixel_width: 805
+image_thumbnail_pixel_height: 578
 back_url: paintings_situations_05.html
-next_url: paintings_situations.html
+next_url: paintings_situations_07.html
 up_url: paintings_situations.html
 ---
 
