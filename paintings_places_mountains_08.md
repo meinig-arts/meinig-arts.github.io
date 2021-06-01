@@ -8,7 +8,7 @@ image_url: assets/images/places/Bauernhof in Suedtirol.png
 image_thumbnail_url: assets/images/places/Bauernhof in Suedtirol-klein.png
 image_thumbnail_pixel_width: 900
 image_thumbnail_pixel_height: 599
-back_url: paintings_places_mountains_04.html
+back_url: paintings_places_mountains_06.html
 next_url: paintings_places_mountains_09.html
 up_url: paintings_places.html
 ---
