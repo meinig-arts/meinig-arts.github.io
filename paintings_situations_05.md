@@ -9,7 +9,7 @@ image_thumbnail_url: assets/images/situations/Sulkyrennen-klein.png
 image_thumbnail_pixel_width: 772
 image_thumbnail_pixel_height: 361
 back_url: paintings_situations_04.html
-next_url: paintings_situations_05.html
+next_url: paintings_situations_06.html
 up_url: paintings_situations.html
 ---
 
