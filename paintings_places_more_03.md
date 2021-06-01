@@ -9,7 +9,7 @@ image_thumbnail_url: assets/images/places/Aus Girlan (Ueberetsch)-klein.png
 image_thumbnail_pixel_width: 830
 image_thumbnail_pixel_height: 637
 back_url: paintings_places_more_02.html
-next_url: paintings_places_more_04.html
+next_url: paintings_places_more_03b.html
 up_url: paintings_places.html
 ---
 
