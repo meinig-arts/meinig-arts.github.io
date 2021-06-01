@@ -9,7 +9,7 @@ image_thumbnail_url: assets/images/places/Pozza di Fassa-klein.png
 image_thumbnail_pixel_width: 900
 image_thumbnail_pixel_height: 599
 back_url: paintings_places_mountains_03.html
-next_url: paintings_places_mountains_09.html
+next_url: paintings_places_mountains_08.html
 up_url: paintings_places.html
 ---
 
