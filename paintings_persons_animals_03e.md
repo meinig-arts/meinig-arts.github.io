@@ -9,6 +9,6 @@ image_thumbnail_url: assets/images/persons-animals/Alemannische Fastnachtstracht
 image_thumbnail_pixel_width: 707
 image_thumbnail_pixel_height: 971
 back_url: paintings_persons_animals_03d.html
-next_url: paintings_persons_animals_03f.html
+next_url: paintings_persons_animals_20.html
 up_url: paintings_persons_animals.html
 ---
