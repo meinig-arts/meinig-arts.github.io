@@ -9,7 +9,7 @@ image_thumbnail_url: assets/images/places/Colfuschg Dolomiten-klein.png
 image_thumbnail_pixel_width: 616
 image_thumbnail_pixel_height: 427
 back_url: paintings_places_mountains_08.html
-next_url: paintings_places_mountains_10.html
+next_url: paintings_places_mountains_13.html
 up_url: paintings_places.html
 ---
 
