@@ -8,7 +8,7 @@ image_url: assets/images/persons-animals/Fische.png
 image_thumbnail_url: assets/images/persons-animals/Fische-klein.png
 image_thumbnail_pixel_width: 899
 image_thumbnail_pixel_height: 604
-back_url: paintings_persons_animals_03e.html
+back_url: paintings_persons_animals_08.html
 next_url: paintings_persons_animals_21.html
 up_url: paintings_persons_animals.html
 ---

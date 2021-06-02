@@ -9,6 +9,6 @@ image_thumbnail_url: assets/images/persons-animals/Roland und Regina-klein.png
 image_thumbnail_pixel_width: 466
 image_thumbnail_pixel_height: 643
 back_url: paintings_persons_animals_01.html
-next_url: paintings_persons_animals_03a.html
+next_url: paintings_persons_animals_03b.html
 up_url: paintings_persons_animals.html
 ---
