@@ -9,7 +9,7 @@ image_thumbnail_url: assets/images/places/Winter am Schauinsland-klein.png
 image_thumbnail_pixel_width: 812
 image_thumbnail_pixel_height: 476
 back_url: paintings_places_mountains_09.html
-next_url: paintings_places_mountains_11.html
+next_url: paintings_places_mountains_10b.html
 up_url: paintings_places.html
 ---
 

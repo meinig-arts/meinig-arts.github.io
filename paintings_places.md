@@ -10,4 +10,4 @@ Nach seiner Übersiedlung in die Bundesrepublik Deutschland nahm er den Südschw
 
 [Spanien / Mallorca ansehen>>](paintings_places_spain_mallorca_01.html)
 
-[Weitere Orte ansehen >>](paintings_places_more_01.html) 
+[Weitere Orte ansehen >>](paintings_places_more_00.html) 
