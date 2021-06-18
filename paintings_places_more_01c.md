@@ -3,7 +3,7 @@ title: Walther Meinig - Orte & Landschaften
 layout: painting
 image_title: Auf dem Land
 image_info1: Öl, 1952
-image_info2: 20 x 30 cm
+image_info2: 30 x 40 cm
 image_url: assets/images/places/Auf dem Land.png
 image_thumbnail_url: assets/images/places/Auf dem Land.png
 image_thumbnail_pixel_width: 539
