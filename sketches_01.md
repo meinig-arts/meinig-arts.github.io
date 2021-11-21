@@ -9,7 +9,7 @@ image_thumbnail_url: assets/images/sketches/skizzenbuch-01-klein.jpg
 image_thumbnail_pixel_width: 606
 image_thumbnail_pixel_height: 846
 back_url: sketches.html
-next_url: sketches.html
+next_url: sketches_02.html
 up_url: sketches.html
 ---
 
