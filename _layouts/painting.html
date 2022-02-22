@@ -16,8 +16,11 @@
         <div id="main">
             <div align="center">
                 <p align="center" style="font-size:22px"><i>{{ page.image_title}}</i><p>
-                <p align="center" style="font-size:14px">{{ page.image_info1}}<br>{{ page.image_info2}}</p>
+                <p align="center" style="font-size:14px">{{ page.image_info1}}, {{ page.image_info2}}</p>
             </div><br>
+            <div align="center">
+                <b><a style="font-size:22px;text-decoration: none;color:blue" href="{{ page.back_url }}">&#8592;</a>&nbsp;&nbsp;&nbsp;&nbsp;<a style="font-size:22px;text-decoration: none;color:blue" href="{{ page.up_url }}">&#8593;</a>&nbsp;&nbsp;&nbsp;&nbsp;<a style="font-size:22px;text-decoration: none;color:blue" href="{{ page.next_url }}">&#8594;</a></b>
+            </div>            
             <div>
               <!-- Image Zoom HTML -->   
               <img align="center" id="myImg" src="{{ page.image_thumbnail_url}}" alt="{{ page.image_title}}">
@@ -28,9 +31,6 @@
                  <div id="caption"></div>
                </div>
             </div>
-        </div>
-        <div align="center">
-            <b><a style="font-size:22px;text-decoration: none;color:blue" href="{{ page.back_url }}">&#8592;</a>&nbsp;&nbsp;&nbsp;&nbsp;<a style="font-size:22px;text-decoration: none;color:blue" href="{{ page.up_url }}">&#8593;</a>&nbsp;&nbsp;&nbsp;&nbsp;<a style="font-size:22px;text-decoration: none;color:blue" href="{{ page.next_url }}">&#8594;</a></b>
         </div>
     </div>
     <script>
