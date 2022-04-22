@@ -3,7 +3,7 @@ title: Walther Meinig - Orte & Landschaften
 layout: painting
 image_title: Dolomiten Landschaft
 image_info1: Öl, 1980
-image_info2: [85 x 110 cm]
+image_info2: (85 x 110 cm)
 image_url: assets/images/places/Dolomiten-Landschaft.png
 image_thumbnail_url: assets/images/places/Dolomiten Landschaft-klein.png
 image_thumbnail_pixel_width: 673

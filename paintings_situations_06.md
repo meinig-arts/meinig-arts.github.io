@@ -3,7 +3,7 @@ title: Walther Meinig - Situationen
 layout: painting
 image_title: Fußgänger in der Stadt
 image_info1: Aquarell, Datum unbekannt
-image_info2: [41 x 68 cm]
+image_info2: (41 x 68 cm)
 image_url: assets/images/situations/Fussgaenger in der Stadt.png
 image_thumbnail_url: assets/images/situations/Fussgaenger in der Stadt-klein.png
 image_thumbnail_pixel_width: 921

@@ -3,7 +3,7 @@ title: Walther Meinig - Abstraktes
 layout: painting
 image_title: Komposition
 image_info1: Öl, 1968 (Gemeinschaftsarbeit mit Hildegard Meinig)
-image_info2: [128 x 93 cm]
+image_info2: (128 x 93 cm)
 image_url: assets/images/abstracts/Komposition.png
 image_thumbnail_url: assets/images/abstracts/Komposition-klein.png
 image_thumbnail_pixel_width: 451

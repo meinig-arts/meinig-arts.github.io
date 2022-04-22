@@ -3,7 +3,7 @@ title: Walther Meinig - Situationen
 layout: painting
 image_title: Holzfuhre im Winter (I)
 image_info1: Öl, 1947
-image_info2: [51 x 67 cm]
+image_info2: (51 x 67 cm)
 image_url: assets/images/situations/Holzfuhre im Winter.png
 image_thumbnail_url: assets/images/situations/Holzfuhre im Winter-klein.png
 image_thumbnail_pixel_width: 633

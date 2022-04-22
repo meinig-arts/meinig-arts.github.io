@@ -3,7 +3,7 @@ title: Walther Meinig - Situationen
 layout: painting
 image_title: Paar
 image_info1: Aquarell, Datum unbekannt
-image_info2: [39 x 53 cm]
+image_info2: (39 x 53 cm)
 image_url: assets/images/situations/Paar.png
 image_thumbnail_url: assets/images/situations/Paar-klein.png
 image_thumbnail_pixel_width: 914

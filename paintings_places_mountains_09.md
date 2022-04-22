@@ -3,7 +3,7 @@ title: Walther Meinig - Orte & Landschaften
 layout: painting
 image_title: Colfuschg / Dolomiten
 image_info1: Aquarell, Oktober 1969
-image_info2: [43 x 61 cm]
+image_info2: (43 x 61 cm)
 image_url: assets/images/places/Colfuschg Dolomiten.png
 image_thumbnail_url: assets/images/places/Colfuschg Dolomiten-klein.png
 image_thumbnail_pixel_width: 616
