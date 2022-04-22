@@ -3,7 +3,7 @@ title: Walther Meinig - Orte & Landschaften
 layout: painting
 image_title: Dolomitenlandschaft (Monte Pala)
 image_info1: Öl, 1979
-image_info2: 70 x 110 cm
+image_info2: [70 x 110 cm]
 image_url: assets/images/places/Dolomitenlandschaft (Monte Pala).png
 image_thumbnail_url: assets/images/places/Dolomitenlandschaft (Monte Pala)-klein.png
 image_thumbnail_pixel_width: 600

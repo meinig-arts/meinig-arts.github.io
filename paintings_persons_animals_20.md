@@ -3,7 +3,7 @@ title: Walther Meinig - Personen & Tiere
 layout: painting
 image_title: Fische
 image_info1: Aquarell, 1973
-image_info2: 35 x 52  cm
+image_info2: [35 x 52 cm]
 image_url: assets/images/persons-animals/Fische.png
 image_thumbnail_url: assets/images/persons-animals/Fische-klein.png
 image_thumbnail_pixel_width: 899

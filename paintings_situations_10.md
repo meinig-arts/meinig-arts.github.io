@@ -3,7 +3,7 @@ title: Walther Meinig - Situationen
 layout: painting
 image_title: Lampion-Umzug
 image_info1: Öl, 1980
-image_info2: 70 x 110 cm
+image_info2: [70 x 110 cm]
 image_url: assets/images/situations/Lampion-Umzug.png
 image_thumbnail_url: assets/images/situations/Lampion-Umzug-klein.png
 image_thumbnail_pixel_width: 696

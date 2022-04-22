@@ -3,7 +3,7 @@ title: Walther Meinig - Orte & Landschaften
 layout: painting
 image_title: Burgruine Hochdorf bei Emmendingen
 image_info1: Aquarell, Datum unbekannt
-image_info2: 49 x 74 cm
+image_info2: [49 x 74 cm]
 image_url: assets/images/places/Burgruine Hochdorf bei Emmendingen.png
 image_thumbnail_url: assets/images/places/Burgruine Hochdorf bei Emmendingen-klein.png
 image_thumbnail_pixel_width: 854

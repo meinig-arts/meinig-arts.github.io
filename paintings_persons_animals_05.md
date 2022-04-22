@@ -3,7 +3,7 @@ title: Walther Meinig - Personen & Tiere
 layout: painting
 image_title: Bäuerin mit Katze
 image_info1: Aquarell, Datum unbekannt
-image_info2: 71 x 47 cm
+image_info2: [71 x 47 cm]
 image_url: assets/images/persons-animals/Baeuerin mit Katze.png
 image_thumbnail_url: assets/images/persons-animals/Baeuerin mit Katze-klein.png
 image_thumbnail_pixel_width: 559

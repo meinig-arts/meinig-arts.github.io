@@ -3,7 +3,7 @@ title: Walther Meinig - Situationen
 layout: painting
 image_title: Beim Frühstück
 image_info1: Aquarell, 1947
-image_info2: 42 x 54 cm
+image_info2: [42 x 54 cm]
 image_url: assets/images/situations/Beim Fruehstueck.png
 image_thumbnail_url: assets/images/situations/Beim Fruehstueck-klein.png
 image_thumbnail_pixel_width: 921

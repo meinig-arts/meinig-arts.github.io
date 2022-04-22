@@ -3,7 +3,7 @@ title: Walther Meinig - Stillleben
 layout: painting
 image_title: Buntes Stillleben 
 image_info1: Aquarell, Datum unbekannt
-image_info2: 62 x 40 cm
+image_info2: [62 x 40 cm]
 image_url: assets/images/still-lifes/Buntes Stillleben.png
 image_thumbnail_url: assets/images/still-lifes/Buntes Stillleben-klein.png
 image_thumbnail_pixel_width: 536
