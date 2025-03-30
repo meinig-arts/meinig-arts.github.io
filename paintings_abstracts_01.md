@@ -1,14 +1,14 @@
 ---
 title: Walther Meinig - Abstraktes
 layout: painting
-image_title: Abstraktion in Erdfarben
-image_info1: Öl, 1961
-image_info2: (90 x 130 cm)
-image_url: assets/images/abstracts/Abstraktion in Erdfarben.png
-image_thumbnail_url: assets/images/abstracts/Abstraktion in Erdfarben-klein.png
-image_thumbnail_pixel_width: 654
-image_thumbnail_pixel_height: 453
+image_title: Dunkle Abstraktion
+image_info1: Aquarell, 1959
+image_info2: (50 x 35 cm)
+image_url: assets/images/abstracts/dunkle-abstraktion.jpg
+image_thumbnail_url: assets/images/abstracts/dunkle-abstraktion-klein.jpg
+image_thumbnail_pixel_width: 883
+image_thumbnail_pixel_height: 615
 back_url: paintings_abstracts.html
-next_url: paintings_abstracts_02.html
+next_url: paintings_abstracts_01b.html
 up_url: paintings_abstracts.html
 ---
