@@ -9,7 +9,7 @@ image_thumbnail_url: assets/images/places/Auf dem Land.png
 image_thumbnail_pixel_width: 539
 image_thumbnail_pixel_height: 441
 back_url: paintings_places_more_01b.html
-next_url: paintings_places_more_02.html
+next_url: paintings_places_more_01d.html
 up_url: paintings_places.html
 ---
 
