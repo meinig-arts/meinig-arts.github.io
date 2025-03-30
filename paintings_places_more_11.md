@@ -9,7 +9,7 @@ image_thumbnail_url: assets/images/places/an-der-moehlin-breisach-klein.jpg
 image_thumbnail_pixel_width: 924
 image_thumbnail_pixel_height: 733
 back_url: paintings_places_more_10.html
-next_url: paintings_places.html
+next_url: paintings_places_more_99.html
 up_url: paintings_places.html
 ---
 
