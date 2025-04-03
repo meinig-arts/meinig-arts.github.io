@@ -9,7 +9,7 @@ image_thumbnail_url: assets/images/places/Baustelle-klein.png
 image_thumbnail_pixel_width: 981
 image_thumbnail_pixel_height: 647
 back_url: paintings_places_more_04.html
-next_url: paintings_places_more_05.html
+next_url: paintings_places_more_04c.html
 up_url: paintings_places.html
 ---
 
