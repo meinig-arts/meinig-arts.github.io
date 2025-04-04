@@ -9,6 +9,6 @@ image_thumbnail_url: assets/images/persons-animals/maedchen-mit-zoepfen-klein.jp
 image_thumbnail_pixel_width: 572
 image_thumbnail_pixel_height: 921
 back_url: paintings_persons_animals_00.html
-next_url: paintings_persons_animals_01.html
+next_url: paintings_persons_animals_00c.html
 up_url: paintings_persons_animals.html
 ---
