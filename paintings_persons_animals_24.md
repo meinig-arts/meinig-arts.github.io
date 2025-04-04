@@ -9,6 +9,6 @@ image_thumbnail_url: assets/images/persons-animals/einsamer-fisch-klein.jpg
 image_thumbnail_pixel_width: 970
 image_thumbnail_pixel_height: 666
 back_url: paintings_persons_animals_23.html
-next_url: paintings_persons_animals.html
+next_url: paintings_persons_animals_25.html
 up_url: paintings_persons_animals.html
 ---
