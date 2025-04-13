@@ -9,7 +9,7 @@ image_thumbnail_url: assets/images/places/Leuchtturm-klein.png
 image_thumbnail_pixel_width: 603
 image_thumbnail_pixel_height: 395
 back_url: paintings_places_more_06.html
-next_url: paintings_places_more_09.html
+next_url: paintings_places_more_06c.html
 up_url: paintings_places.html
 ---
 
