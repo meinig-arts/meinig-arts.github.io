@@ -3,7 +3,7 @@ title: Walther Meinig - Personen & Tiere
 layout: painting
 image_title: Mädchen mit Zöpfen
 image_info1: Zeichnung, Datum unbekannt
-image_info2: (45 x 65,5 cm)
+image_info2: (65,5 x 45 cm)
 image_url: assets/images/persons-animals/maedchen-mit-zoepfen.jpg
 image_thumbnail_url: assets/images/persons-animals/maedchen-mit-zoepfen-klein.jpg
 image_thumbnail_pixel_width: 572

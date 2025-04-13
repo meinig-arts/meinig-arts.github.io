@@ -3,7 +3,7 @@ title: Walther Meinig - Orte & Landschaften
 layout: painting
 image_title: Drei Häuser vor Bergkette
 image_info1: Aquarell, Datum unbekannt
-image_info2: (49 x 38 cm)
+image_info2: (38 x 49 cm)
 image_url: assets/images/places/drei-haeuser-vor-bergkette.jpg
 image_thumbnail_url: assets/images/places/drei-haeuser-vor-bergkette-klein.jpg
 image_thumbnail_pixel_width: 911

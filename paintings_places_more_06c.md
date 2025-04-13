@@ -3,7 +3,7 @@ title: Walther Meinig - Orte & Landschaften
 layout: painting
 image_title: Leuchtturm II (mit Widmung)
 image_info1: Aquarell, 1966
-image_info2: (58 x 27,5 cm)
+image_info2: (27,5 x 58 cm)
 image_url: assets/images/places/leuchtturm-II.jpg
 image_thumbnail_url: assets/images/places/leuchtturm-II-klein.jpg
 image_thumbnail_pixel_width: 918

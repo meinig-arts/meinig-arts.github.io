@@ -3,7 +3,7 @@ title: Walther Meinig - Orte & Landschaften
 layout: painting
 image_title: Venedig (unvollendet)
 image_info1: Öl
-image_info2: (125,5 x 91,5 cm)
+image_info2: (91,5 cm x 125,5 cm)
 image_url: assets/images/places/venedig-unvollendet.jpg
 image_thumbnail_url: assets/images/places/venedig-unvollendet-klein.jpg
 image_thumbnail_pixel_width: 1160

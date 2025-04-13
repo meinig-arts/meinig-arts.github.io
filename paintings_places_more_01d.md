@@ -3,7 +3,7 @@ title: Walther Meinig - Orte & Landschaften
 layout: painting
 image_title: Winter in Meißen
 image_info1: Aquarell, 1952
-image_info2: (31 x 24 cm)
+image_info2: (24 x 31 cm)
 image_url: assets/images/places/winter-in-meissen.jpg
 image_thumbnail_url: assets/images/places/winter-in-meissen-klein.jpg
 image_thumbnail_pixel_width: 818

@@ -3,7 +3,7 @@ title: Walther Meinig - Orte & Landschaften
 layout: painting
 image_title: Stadtgarten Freiburg im Winter
 image_info1: Druckgrafik, 1987
-image_info2: (49 x 37 cm)
+image_info2: (37 x 49 cm)
 image_url: assets/images/places/stadtgarten-freiburg-im-winter.jpg
 image_thumbnail_url: assets/images/places/stadtgarten-freiburg-im-winter-klein.jpg
 image_thumbnail_pixel_width: 888

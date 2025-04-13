@@ -3,7 +3,7 @@ title: Walther Meinig - Abstraktes
 layout: painting
 image_title: Farbfluss
 image_info1: Aquarell, 1959
-image_info2: (50 x 35 cm)
+image_info2: (35 x 50)
 image_url: assets/images/abstracts/farbfluss.jpg
 image_thumbnail_url: assets/images/abstracts/farbfluss-klein.jpg
 image_thumbnail_pixel_width: 775
